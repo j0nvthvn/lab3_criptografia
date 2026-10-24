@@ -1,0 +1,18 @@
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Editores
+*.swp
+*~
+.vscode/
+.idea/
+
+# LaTeX (por si compilas el informe dentro del repo)
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
